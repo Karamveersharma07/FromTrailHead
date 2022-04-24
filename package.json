@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/karamveersharma07.lwc-l2cv3map-fork-l2cv4fjn",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 8GxIBqHRR3PM9lGP5oyf --open"
+  }
+}
